@@ -9,7 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 //test21
 public class test2{
-	//edit1, edit2 edit3inhub
+	//edit1, edit2 edit3inhub, edit4, edit5, edit6, edit7, edit8, edit9, editsel
+	
 	private WebDriver webDriver;
 	
 	@Before
